@@ -1,5 +1,7 @@
 # QA Automation – SauceDemo E2E Tests
 
+[![Cypress E2E Tests](https://github.com/maikyyyyy/qa-automation-saucedemo/actions/workflows/cypress.yml/badge.svg)](https://github.com/maikyyyyy/qa-automation-saucedemo/actions/workflows/cypress.yml)
+
 Suite de pruebas E2E automatizadas con Cypress sobre [SauceDemo](https://www.saucedemo.com), una aplicación de ecommerce diseñada para práctica de testing.
 
 ## 🧪 ¿Qué se testea?
