@@ -10,7 +10,7 @@ describe('Logout', () => {
 
   it('Logout correcto', () => {
     InventoryPage.logout()
-    cy.url().should('include', '/login')
+    cy.url().should('eq', 'https://www.saucedemo.com/')
     LoginPage.elements.loginButton().should('be.visible')
   })
 })
